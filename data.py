@@ -21,7 +21,7 @@ create_product(apple, "iPhone X", "256GB Space Gray", 310)
 create_product(apple, "iPhone 5s", "128GB Silver", 250)
 
 #############################################################################
-# To create a new store:
+pharmacy = Store("Pharmacy") # To create a new store:
     # Create a new Store() object, and append it to the stores list.
 
 # To add a new product to the store:
